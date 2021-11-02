@@ -1,4 +1,4 @@
-# online_currency_converter
+# Online Currency Converter
 
 A new Flutter project.
 
